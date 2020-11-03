@@ -1,3 +1,1 @@
 hello git smart
-
-update from smart git
